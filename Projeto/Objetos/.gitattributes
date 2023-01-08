@@ -1,0 +1,2 @@
+Alien.fbx filter=lfs diff=lfs merge=lfs -text
+Falling.fbx filter=lfs diff=lfs merge=lfs -text
